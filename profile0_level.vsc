@@ -1,0 +1,95 @@
+setlight 0 ffc0c0ff 20202020 ffffffff 1.00 40.00 0.00 30.00 300.00
+Script "wait 120"
+Script "setflow 0 0 0 0"
+Script "setflow 1 10 20 30"
+Script "setflow 2 10 40 30"
+Script "setflow 3 10 20 30"
+Script "sp AirDefenseLevel 5"
+Script "wait 120"
+Script "setflow 1 0 0 0"
+Script "setflow 2 6 36 30"
+Script "setflow 3 10 30 30"
+Script "sp AirDefenseLevel 6"
+Script "wait 120"
+Script "setflow 1 0 0 0"
+Script "setflow 2 6 12 0"
+Script "setflow 3 10 20 0"
+Script "sp AirDefenseLevel 7"
+UnlockLevel "level_06"
+sethintfreq 20.00
+BugSetup 0 littlebeetle 100.00
+BugSetup 1 rhinobeetle 100.00
+BugSetup 2 stagbeetle 100.00
+BugSetup 3 beetlehero 100.00
+SetLanes 0 0
+SetLanes 0 1
+SetLanes 0 2
+SetLanes 0 3
+SetLanes 1 0
+SetLanes 1 1
+SetLanes 1 2
+SetLanes 1 3
+SetLanes 2 0
+SetLanes 2 1
+SetLanes 2 2
+SetLanes 2 3
+SetLanes 3 0
+SetLanes 3 1
+SetLanes 3 2
+SetLanes 3 3
+setflow 0 5.00 10.00 40.00
+setflow 1 4.00 24.00 12.00
+setflow 2 10.00 30.00 30.00
+setflow 3 0.00 0.00 0.00
+sp "AirDefenseLevel" 4.0000000000
+sp "DefenseTime" 240.4948425293
+sp "Description" "LEVELDESC_C01"
+sp "EnemyBaseSize" 100.0000000000
+sp "GoalNectar" 0.0000000000
+sp "InitialNectar" 50.0000000000
+sp "IsReversed" 0.0000000000
+sp "LoseText" ""
+sp "MapX" 568.0000000000
+sp "MapY" 662.0000000000
+sp "Music" "grass"
+sp "NameText" "LEVELNAME_C01"
+sp "NectarOnPaths" 25.0000000000
+sp "Objective" "LEVELOBJ_SURVIVELONG"
+sp "ObjectiveHint" ""
+sp "OriginalName" "challenge_01"
+sp "PlayerBaseSize" 10.0000000000
+sp "RescueBug" ""
+sp "Save_AirBattlesWon" 17.0000000000
+sp "Save_Bombed" 25.0000000000
+sp "Save_Bug0" "ant"
+sp "Save_Bug1" "toxichero"
+sp "Save_Bug2" "wasphero"
+sp "Save_Bug3" "bomberbee"
+sp "Save_Bug4" "wasp"
+sp "Save_Bug5" "bee"
+sp "Save_Bug6" "toxicbug"
+sp "Save_Bug7" "rhinobeetle"
+sp "Save_BugTime0" 3.2997491360
+sp "Save_BugTime1" 0.0000000000
+sp "Save_BugTime2" 42.8479995728
+sp "Save_BugTime3" 2.7694063187
+sp "Save_BugTime4" 0.1098664105
+sp "Save_BugTime5" 0.0000000000
+sp "Save_BugTime6" 0.0000000000
+sp "Save_BugTime7" 0.0000000000
+sp "Save_BugsCreated" 37.0000000000
+sp "Save_BugsLost" 21.0000000000
+sp "Save_CurrentEnemyHP" 100.0000000000
+sp "Save_MedalState" 0.0000000000 2.0000000000 0.0000000000 2.0000000000 2.0000000000 2.0000000000 2.0000000000 2.0000000000 0.0000000000 0.0000000000
+sp "Save_PlayerEssence" 104.0000000000
+sp "Save_PlayerHP" 9.0000000000
+sp "Save_PlayerNectar" 23.0000000000
+sp "Save_ReachedWithoutBattle" 0.0000000000
+sp "Save_TotalBattlesWon" 43.0000000000
+sp "Save_TotalGatheredNectar" 120.0000000000
+sp "Save_WinsInRow" 0.0000000000
+sp "TravelDistance" 15.0000000000
+sp "Type" "challenge"
+sp "WinText" ""
+sp "World" "world_02"
+

@@ -1,0 +1,3373 @@
+sp "AmbientSfx" "sfx/ambient_field_01"
+sp "DustParticle" "20ff9f70"
+sp "DustType" 0.0000000000
+sp "FlyHeight" 80.0000000000
+sp "FogColor" "ffc0c0ff"
+sp "FogEnd" 800.0000000000
+sp "FogStart" 300.0000000000
+sp "FogType" 1.0000000000
+sp "Height" 320.0000000000
+sp "MaxCamDistance" 400.0000000000
+sp "MaxYaw" 0.4000000060
+sp "MinAngle" 0.6999999881
+sp "MinCamDistance" 180.0000000000
+sp "Offset" -10.0000000000 -40.0000000000 0.0000000000
+sp "Width" 350.0000000000
+sp "WindParticle" "Particles/pe_dandelion"
+
+SpawnEntity "Flower" "FLOWER"
+SpawnEntity "Flower1" "FLOWER"
+SpawnEntity "Flower2" "FLOWER"
+SpawnEntity "Flower3" "FLOWER"
+SpawnEntity "Light" "LIGHT"
+SpawnEntity "World" "STATIC"
+SpawnEntity "ant" "BUG"
+SpawnEntity "ant1" "BUG"
+SpawnEntity "ant2" "BUG"
+SpawnEntity "ant3" "BUG"
+SpawnEntity "ant4" "BUG"
+SpawnEntity "bee" "BUG"
+SpawnEntity "bee1" "BUG"
+SpawnEntity "bee2" "BUG"
+SpawnEntity "bee3" "BUG"
+SpawnEntity "bee5" "BUG"
+SpawnEntity "bomberbee" "BUG"
+SpawnEntity "caterpillar" "BUG"
+SpawnEntity "littlebeetle" "BUG"
+SpawnEntity "littlebeetle2" "BUG"
+SpawnEntity "littlebeetle7" "BUG"
+SpawnEntity "littlebeetle8" "BUG"
+SpawnEntity "nectar" "NECTAR"
+SpawnEntity "nectar1" "NECTAR"
+SpawnEntity "nectar12" "NECTAR"
+SpawnEntity "nectar14" "NECTAR"
+SpawnEntity "nectar15" "NECTAR"
+SpawnEntity "nectar16" "NECTAR"
+SpawnEntity "nectar17" "NECTAR"
+SpawnEntity "nectar18" "NECTAR"
+SpawnEntity "nectar19" "NECTAR"
+SpawnEntity "nectar2" "NECTAR"
+SpawnEntity "nectar20" "NECTAR"
+SpawnEntity "nectar21" "NECTAR"
+SpawnEntity "nectar22" "NECTAR"
+SpawnEntity "nectar23" "NECTAR"
+SpawnEntity "nectar24" "NECTAR"
+SpawnEntity "nectar25" "NECTAR"
+SpawnEntity "nectar26" "NECTAR"
+SpawnEntity "nectar29" "NECTAR"
+SpawnEntity "nectar3" "NECTAR"
+SpawnEntity "nectar31" "NECTAR"
+SpawnEntity "nectar4" "NECTAR"
+SpawnEntity "nectar5" "NECTAR"
+SpawnEntity "nectar7" "NECTAR"
+SpawnEntity "nectar9" "NECTAR"
+SpawnEntity "rhinobeetle" "BUG"
+SpawnEntity "rhinobeetle1" "BUG"
+SpawnEntity "rhinobeetle2" "BUG"
+SpawnEntity "start" "START"
+SpawnEntity "start1" "START"
+SpawnEntity "start2" "START"
+SpawnEntity "start3" "START"
+SpawnEntity "start4" "START"
+SpawnEntity "start5" "START"
+SpawnEntity "start6" "START"
+SpawnEntity "start7" "START"
+SpawnEntity "wasp" "BUG"
+SpawnEntity "wasp1" "BUG"
+SpawnEntity "wasp2" "BUG"
+SpawnEntity "wasp3" "BUG"
+SpawnEntity "wasp5" "BUG"
+SpawnEntity "wasp6" "BUG"
+SpawnEntity "wasp7" "BUG"
+SpawnEntity "wasphero" "BUG"
+SpawnEntity "wasphero1" "BUG"
+SpawnEntity "wp" "WAYPOINT"
+SpawnEntity "wp1" "WAYPOINT"
+SpawnEntity "wp10" "WAYPOINT"
+SpawnEntity "wp100" "WAYPOINT"
+SpawnEntity "wp101" "WAYPOINT"
+SpawnEntity "wp102" "WAYPOINT"
+SpawnEntity "wp103" "WAYPOINT"
+SpawnEntity "wp104" "WAYPOINT"
+SpawnEntity "wp105" "WAYPOINT"
+SpawnEntity "wp106" "WAYPOINT"
+SpawnEntity "wp107" "WAYPOINT"
+SpawnEntity "wp108" "WAYPOINT"
+SpawnEntity "wp109" "WAYPOINT"
+SpawnEntity "wp11" "WAYPOINT"
+SpawnEntity "wp110" "WAYPOINT"
+SpawnEntity "wp111" "WAYPOINT"
+SpawnEntity "wp112" "WAYPOINT"
+SpawnEntity "wp113" "WAYPOINT"
+SpawnEntity "wp114" "WAYPOINT"
+SpawnEntity "wp115" "WAYPOINT"
+SpawnEntity "wp116" "WAYPOINT"
+SpawnEntity "wp117" "WAYPOINT"
+SpawnEntity "wp118" "WAYPOINT"
+SpawnEntity "wp119" "WAYPOINT"
+SpawnEntity "wp12" "WAYPOINT"
+SpawnEntity "wp120" "WAYPOINT"
+SpawnEntity "wp121" "WAYPOINT"
+SpawnEntity "wp13" "WAYPOINT"
+SpawnEntity "wp14" "WAYPOINT"
+SpawnEntity "wp15" "WAYPOINT"
+SpawnEntity "wp16" "WAYPOINT"
+SpawnEntity "wp17" "WAYPOINT"
+SpawnEntity "wp18" "WAYPOINT"
+SpawnEntity "wp19" "WAYPOINT"
+SpawnEntity "wp2" "WAYPOINT"
+SpawnEntity "wp20" "WAYPOINT"
+SpawnEntity "wp21" "WAYPOINT"
+SpawnEntity "wp22" "WAYPOINT"
+SpawnEntity "wp23" "WAYPOINT"
+SpawnEntity "wp24" "WAYPOINT"
+SpawnEntity "wp25" "WAYPOINT"
+SpawnEntity "wp26" "WAYPOINT"
+SpawnEntity "wp27" "WAYPOINT"
+SpawnEntity "wp28" "WAYPOINT"
+SpawnEntity "wp29" "WAYPOINT"
+SpawnEntity "wp3" "WAYPOINT"
+SpawnEntity "wp30" "WAYPOINT"
+SpawnEntity "wp31" "WAYPOINT"
+SpawnEntity "wp32" "WAYPOINT"
+SpawnEntity "wp33" "WAYPOINT"
+SpawnEntity "wp34" "WAYPOINT"
+SpawnEntity "wp35" "WAYPOINT"
+SpawnEntity "wp36" "WAYPOINT"
+SpawnEntity "wp37" "WAYPOINT"
+SpawnEntity "wp38" "WAYPOINT"
+SpawnEntity "wp39" "WAYPOINT"
+SpawnEntity "wp4" "WAYPOINT"
+SpawnEntity "wp40" "WAYPOINT"
+SpawnEntity "wp41" "WAYPOINT"
+SpawnEntity "wp42" "WAYPOINT"
+SpawnEntity "wp43" "WAYPOINT"
+SpawnEntity "wp44" "WAYPOINT"
+SpawnEntity "wp45" "WAYPOINT"
+SpawnEntity "wp46" "WAYPOINT"
+SpawnEntity "wp47" "WAYPOINT"
+SpawnEntity "wp48" "WAYPOINT"
+SpawnEntity "wp49" "WAYPOINT"
+SpawnEntity "wp5" "WAYPOINT"
+SpawnEntity "wp50" "WAYPOINT"
+SpawnEntity "wp51" "WAYPOINT"
+SpawnEntity "wp52" "WAYPOINT"
+SpawnEntity "wp53" "WAYPOINT"
+SpawnEntity "wp54" "WAYPOINT"
+SpawnEntity "wp55" "WAYPOINT"
+SpawnEntity "wp56" "WAYPOINT"
+SpawnEntity "wp57" "WAYPOINT"
+SpawnEntity "wp58" "WAYPOINT"
+SpawnEntity "wp59" "WAYPOINT"
+SpawnEntity "wp6" "WAYPOINT"
+SpawnEntity "wp60" "WAYPOINT"
+SpawnEntity "wp61" "WAYPOINT"
+SpawnEntity "wp62" "WAYPOINT"
+SpawnEntity "wp63" "WAYPOINT"
+SpawnEntity "wp64" "WAYPOINT"
+SpawnEntity "wp65" "WAYPOINT"
+SpawnEntity "wp66" "WAYPOINT"
+SpawnEntity "wp67" "WAYPOINT"
+SpawnEntity "wp68" "WAYPOINT"
+SpawnEntity "wp69" "WAYPOINT"
+SpawnEntity "wp7" "WAYPOINT"
+SpawnEntity "wp70" "WAYPOINT"
+SpawnEntity "wp71" "WAYPOINT"
+SpawnEntity "wp72" "WAYPOINT"
+SpawnEntity "wp73" "WAYPOINT"
+SpawnEntity "wp74" "WAYPOINT"
+SpawnEntity "wp75" "WAYPOINT"
+SpawnEntity "wp76" "WAYPOINT"
+SpawnEntity "wp77" "WAYPOINT"
+SpawnEntity "wp78" "WAYPOINT"
+SpawnEntity "wp79" "WAYPOINT"
+SpawnEntity "wp8" "WAYPOINT"
+SpawnEntity "wp80" "WAYPOINT"
+SpawnEntity "wp81" "WAYPOINT"
+SpawnEntity "wp82" "WAYPOINT"
+SpawnEntity "wp83" "WAYPOINT"
+SpawnEntity "wp84" "WAYPOINT"
+SpawnEntity "wp85" "WAYPOINT"
+SpawnEntity "wp86" "WAYPOINT"
+SpawnEntity "wp87" "WAYPOINT"
+SpawnEntity "wp88" "WAYPOINT"
+SpawnEntity "wp89" "WAYPOINT"
+SpawnEntity "wp9" "WAYPOINT"
+SpawnEntity "wp90" "WAYPOINT"
+SpawnEntity "wp91" "WAYPOINT"
+SpawnEntity "wp92" "WAYPOINT"
+SpawnEntity "wp93" "WAYPOINT"
+SpawnEntity "wp94" "WAYPOINT"
+SpawnEntity "wp95" "WAYPOINT"
+SpawnEntity "wp96" "WAYPOINT"
+SpawnEntity "wp97" "WAYPOINT"
+SpawnEntity "wp98" "WAYPOINT"
+SpawnEntity "wp99" "WAYPOINT"
+> "Flower"
+	sp "Direction" 0.2647174299 -0.9643260837 0.0000000000
+	sp "FlowerType" 1.0000000000
+	sp "Position" -97.0425872803 -156.7954101563 -1.5189819336
+	<
+
+> "Flower1"
+	sp "Direction" -0.2389807552 0.9710242748 0.0000000000
+	sp "FlowerType" 1.0000000000
+	sp "Position" 29.3521575928 -67.8827514648 -17.1762084961
+	<
+
+> "Flower2"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "FlowerType" 1.0000000000
+	sp "Position" -29.7136478424 19.6072044373 -17.1762084961
+	<
+
+> "Flower3"
+	sp "Direction" -0.9963268638 -0.0856324658 0.0000000000
+	sp "FlowerType" 1.0000000000
+	sp "Position" 76.5620727539 88.5580520630 1.5190398693
+	<
+
+> "Light"
+	sp "Direction" -0.3830222189 0.6634139419 0.6427875757
+	sp "Position" -80.9161300659 -110.2817687988 -55.5014648438
+	<
+
+> "World"
+	sp "Direction" 1.0000000000 0.0000000000 0.0000000000
+	sp "Model" "worlds/world_02"
+	sp "Position" 0.0562200584 -0.1967618167 1.0000000000
+
+	> "worlds.world_02"
+
+		> "dandelions"
+			sp "Material0" "SYSTEM/blendedlighted"
+			sp "Material1" "SYSTEM/zadditive"
+			<
+
+
+		> "grass_a"
+			sp "Material0" "SYSTEM/blendedlighted"
+			sp "Material1" "SYSTEM/blendedlighted"
+			sp "Material2" "SYSTEM/blendedlighted"
+			<
+
+
+		> "grass_c"
+			sp "Material0" "SYSTEM/blendedlighted"
+			sp "Material1" "SYSTEM/blendedlighted"
+			sp "Material2" "SYSTEM/blendedlighted"
+			<
+
+
+		> "grass_seed1"
+			sp "Material0" "SYSTEM/blendedlighted"
+			<
+
+
+		> "grass_seed2"
+			sp "Material0" "SYSTEM/blendedlighted"
+			<
+
+
+		> "ground"
+			sp "Material0" "SYSTEM/lighted"
+			sp "Material1" "SYSTEM/lighted"
+			<
+
+
+		> "nefelejcs"
+			sp "Material0" "SYSTEM/blendedlighted"
+			<
+
+
+		> "pebbles"
+			sp "Material0" "SYSTEM/lighted"
+			sp "Material1" "SYSTEM/lighted"
+			<
+
+
+		> "schamrock_b"
+			sp "Material0" "SYSTEM/blendedlightedambient"
+			<
+
+
+		> "schemrock_a"
+			sp "Material0" "SYSTEM/blendedlighted"
+			<
+
+		<
+
+	<
+
+> "ant"
+	SetBugClass ant
+	Save_SetWaypoints wp86 wp87 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.5000000000
+	sp "Model" "Bugs/ant"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/ant_hurt"
+	sp "AnimIdle" "Bugs/ant_idle"
+	sp "AnimNormalAttack" "Bugs/ant_attack"
+	sp "AnimRatio" 0.2000000030
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/ant_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.2999999523 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.5000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.9947554469 0.1022817492 -0.0000001965
+	sp "DirectionFactor" 12.0000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 15.0000000000
+	sp "LinearMomentum" 21.5288162231 5.2361440659 -0.0000044014
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 5.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 38.0000000000
+	sp "Position" -213.8590393066 -143.8242645264 3.7390501499
+	sp "ProjectileSfx" ""
+	sp "Radius" 5.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 15.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 140.7119445801
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 1152503722747065600000000000.0000000000 61705660.0000000000 1109612460231520600000000000.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -0.6128303409
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 22.0000000000
+	sp "TargetDirection" 0.9955316186 0.0944290832 -0.0000002032
+	sp "TargetSpeed" 22.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_ANT"
+	<
+
+> "ant1"
+	SetBugClass ant
+	Save_SetWaypoints wp103 wp104 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.5000000000
+	sp "Model" "Bugs/ant"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/ant_hurt"
+	sp "AnimIdle" "Bugs/ant_idle"
+	sp "AnimNormalAttack" "Bugs/ant_attack"
+	sp "AnimRatio" 0.2000000030
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/ant_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.2999999523 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.5000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.3148056567 -0.9156263471 -0.2500516176
+	sp "DirectionFactor" 12.0000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 15.0000000000
+	sp "LinearMomentum" 0.1196261495 -0.3479380012 -0.0950196162
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 5.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 38.0000000000
+	sp "Position" 61.1223831177 -173.8052825928 7.8728957176
+	sp "ProjectileSfx" ""
+	sp "Radius" 5.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 7.5000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 75.9078063965
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 1152503722747065600000000000.0000000000 61705660.0000000000 1109612460231520600000000000.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -0.3284835815
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 22.0000000000
+	sp "TargetDirection" 0.3142637610 -0.9140510559 -0.2564153671
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_ANT"
+	<
+
+> "ant2"
+	SetBugClass ant
+	Save_SetWaypoints wp101 wp102 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.5000000000
+	sp "Model" "Bugs/ant"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/ant_hurt"
+	sp "AnimIdle" "Bugs/ant_idle"
+	sp "AnimNormalAttack" "Bugs/ant_attack"
+	sp "AnimRatio" 0.2000000030
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/ant_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.2999999523 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.5000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" -0.4915504158 -0.8563966751 0.1579968631
+	sp "DirectionFactor" 12.0000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 15.0000000000
+	sp "LinearMomentum" -0.1867891401 -0.3254307508 0.0600388087
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 5.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 38.0000000000
+	sp "Position" 72.1038131714 -157.8031463623 3.3638224602
+	sp "ProjectileSfx" ""
+	sp "Radius" 5.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 3.0000000000
+	sp "Save_CurrentHealth" 15.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 30.8906116486
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 0.5210479498 -0.3173438609 -5.4378366470
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -1.4272717237
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 22.0000000000
+	sp "TargetDirection" -0.4915503263 -0.8563966751 0.1579968631
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_ANT"
+	<
+
+> "ant3"
+	SetBugClass ant
+	Save_SetWaypoints wp52 wp53 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.5000000000
+	sp "Model" "Bugs/ant"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/ant_hurt"
+	sp "AnimIdle" "Bugs/ant_idle"
+	sp "AnimNormalAttack" "Bugs/ant_attack"
+	sp "AnimRatio" 0.2000000030
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/ant_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.2999999523 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.5000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.8352692723 0.4914028347 0.2466751188
+	sp "DirectionFactor" 12.0000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 15.0000000000
+	sp "LinearMomentum" 0.3174023032 0.1867330670 0.0937365443
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 5.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 38.0000000000
+	sp "Position" 46.8314552307 26.0502281189 -3.1865029335
+	sp "ProjectileSfx" ""
+	sp "Radius" 5.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 8.0000000000
+	sp "Save_CurrentHealth" 0.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 48.2779045105
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 48.3151626587 -102.2063522339 -83.1601333618
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.1316950619
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 22.0000000000
+	sp "TargetDirection" 0.8352692127 0.4914028049 0.2466751933
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_ANT"
+	<
+
+> "ant4"
+	SetBugClass ant
+	Save_SetWaypoints wp27 wp26 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.5000000000
+	sp "Model" "Bugs/ant"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/ant_hurt"
+	sp "AnimIdle" "Bugs/ant_idle"
+	sp "AnimNormalAttack" "Bugs/ant_attack"
+	sp "AnimRatio" 0.2000000030
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/ant_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.2999999523 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.5000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.5276585817 0.8494531512 0.0024070921
+	sp "DirectionFactor" 12.0000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 15.0000000000
+	sp "LinearMomentum" 12.1856002808 8.3887090683 0.2838045657
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 5.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 38.0000000000
+	sp "Position" -126.6532821655 65.5161437988 3.9404551983
+	sp "ProjectileSfx" ""
+	sp "Radius" 5.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 15.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 11.6701717377
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -0.0000000000 -0.0000000000 0.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -0.5014241338
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 22.0000000000
+	sp "TargetDirection" 0.5083296299 0.8611610532 0.0015946402
+	sp "TargetSpeed" 14.5952234268
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_ANT"
+	<
+
+> "bee"
+	SetBugClass bee
+	Save_SetWaypoints wp84 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.0000000000
+	sp "Model" "Bugs/bee"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/bee_hurt"
+	sp "AnimIdle" "Bugs/bee_flight"
+	sp "AnimNormalAttack" "Bugs/bee_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/bee_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.6000000238 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.0000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" -0.4457095563 -0.8951777220 0.0000000000
+	sp "DirectionFactor" 3.5000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 25.0000000000
+	sp "LinearMomentum" -1.4075393677 -28.9143619537 14.0837030411
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 45.0000000000
+	sp "Position" -16.5217666626 -5.2367868423 -45.5037956238
+	sp "ProjectileSfx" ""
+	sp "Radius" 4.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 80.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 25.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 234.9601440430
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -99.4917678833 -152.3959808350 -40.8444824219
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" -0.4890961051 -0.8722298741 0.0000000000
+	sp "TargetSpeed" 40.0000000000
+	sp "WaveAmplitude" 50.0000000000
+	sp "WinText" "BUGCHAT_WIN_BEE"
+	<
+
+> "bee1"
+	SetBugClass bee
+	Save_SetWaypoints wp36 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.0000000000
+	sp "Model" "Bugs/bee"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/bee_hurt"
+	sp "AnimIdle" "Bugs/bee_flight"
+	sp "AnimNormalAttack" "Bugs/bee_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/bee_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.6000000238 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.0000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.4895077646 0.8719990253 0.0002745351
+	sp "DirectionFactor" 3.5000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 25.0000000000
+	sp "LinearMomentum" 34.4919013977 8.0252504349 16.4163455963
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 45.0000000000
+	sp "Position" -236.4357452393 96.0400695801 -40.9022712708
+	sp "ProjectileSfx" ""
+	sp "Radius" 4.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 80.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 17.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 209.0343933105
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -248.9385833740 95.4724731445 -80.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" -0.9995456934 -0.0301405005 0.0000000000
+	sp "TargetSpeed" 40.0000000000
+	sp "WaveAmplitude" 50.0000000000
+	sp "WinText" "BUGCHAT_WIN_BEE"
+	<
+
+> "bee2"
+	SetBugClass bee
+	Save_SetWaypoints wp84 start2 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.0000000000
+	sp "Model" "Bugs/bee"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/bee_hurt"
+	sp "AnimIdle" "Bugs/bee_flight"
+	sp "AnimNormalAttack" "Bugs/bee_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/bee_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.6000000238 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.0000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" -0.9935950637 -0.1129994094 0.0000000000
+	sp "DirectionFactor" 3.5000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 25.0000000000
+	sp "LinearMomentum" -39.9369850159 -3.0016193390 0.0562870502
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 45.0000000000
+	sp "Position" -76.3645782471 -46.9361419678 -50.2002296448
+	sp "ProjectileSfx" ""
+	sp "Radius" 4.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 80.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 25.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 23.1804351807
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 1.0000000000
+	sp "Save_TargetPosition" -266.4975891113 -69.1464843750 -5.4916992188
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" -0.9932765961 -0.1157651097 0.0000000000
+	sp "TargetSpeed" 40.0000000000
+	sp "WaveAmplitude" 50.0000000000
+	sp "WinText" "BUGCHAT_WIN_BEE"
+	<
+
+> "bee3"
+	SetBugClass bee
+	Save_SetWaypoints start2 wp84 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.0000000000
+	sp "Model" "Bugs/bee"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/bee_hurt"
+	sp "AnimIdle" "Bugs/bee_flight"
+	sp "AnimNormalAttack" "Bugs/bee_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/bee_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.6000000238 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.0000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.9911559224 0.1227387488 0.0504494533
+	sp "DirectionFactor" 3.5000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 25.0000000000
+	sp "LinearMomentum" 30.6749496460 4.4624218941 1.5759221315
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 30.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 45.0000000000
+	sp "Position" -323.8363647461 -76.0779418945 -8.4128093719
+	sp "ProjectileSfx" ""
+	sp "Radius" 4.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 80.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 1.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 152.8252868652
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -266.4975891113 -69.1464843750 -5.4916992188
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.3464526832
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" 0.9914586544 0.1202451140 0.0505055040
+	sp "TargetSpeed" 32.0000000000
+	sp "WaveAmplitude" 50.0000000000
+	sp "WinText" "BUGCHAT_WIN_BEE"
+	<
+
+> "bee5"
+	SetBugClass bee
+	Save_SetWaypoints wp36 start 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.0000000000
+	sp "Model" "Bugs/bee"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/bee_hurt"
+	sp "AnimIdle" "Bugs/bee_flight"
+	sp "AnimNormalAttack" "Bugs/bee_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/bee_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.6000000238 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.5000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.0000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 1.0000000000
+	sp "Direction" 0.5531281829 -0.8330962658 0.0000000000
+	sp "DirectionFactor" 3.5000000000
+	sp "HiveDamage" 0.0000000000
+	sp "InitialHealth" 25.0000000000
+	sp "LinearMomentum" 20.3199367523 -10.1619586945 -0.0003371337
+	sp "Mass" 1.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 45.0000000000
+	sp "Position" -275.3413391113 124.7684936523 -14.2795276642
+	sp "ProjectileSfx" ""
+	sp "Radius" 4.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 80.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 9.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 69.0063323975
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 1.0000000000
+	sp "Save_TargetPosition" -261.0341796875 95.4232330322 3.9727325439
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" 0.4495544136 -0.8932529092 0.0000000000
+	sp "TargetSpeed" 38.2915115356
+	sp "WaveAmplitude" 50.0000000000
+	sp "WinText" "BUGCHAT_WIN_BEE"
+	<
+
+> "bomberbee"
+	SetBugClass bomberbee
+	Save_SetWaypoints wp84 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.0000000000
+	sp "Model" "Bugs/bomberbee"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/bomberbee_hurt"
+	sp "AnimIdle" "Bugs/bomberbee_flight"
+	sp "AnimNormalAttack" ""
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" "Bugs/bomberbee_attack1"
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/bomberbee_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 4.5999999046 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 0.4000000060
+	sp "AttackSfx" "sfx/attack_spit_02"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.0000000000
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" 0.9985129237 -0.0544436313 0.0028241286
+	sp "DirectionFactor" 3.0000000000
+	sp "HiveDamage" 2.0000000000
+	sp "InitialHealth" 70.0000000000
+	sp "LinearMomentum" 122.8551406860 24.6739273071 9.3278551102
+	sp "Mass" 5.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 0.0000000000
+	sp "Acceleration" 40.0000000000
+	sp "Position" -122.2913970947 44.0762634277 -77.2499694824
+	sp "ProjectileSfx" "sfx/attack_bomb"
+	sp "Radius" 12.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 10.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 70.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 27.2305278778
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 7.1305885315
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -49.3460197449 34.1151123047 -80.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 200.0000000000
+	sp "SpecialDamage" 25.0000000000
+	sp "Speed" 25.0000000000
+	sp "TargetDirection" 0.9912553430 -0.1319575310 0.0000000000
+	sp "TargetSpeed" 25.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_BOMBERBEE"
+	<
+
+> "caterpillar"
+	SetBugClass caterpillar
+	Save_SetWaypoints start6 wp63 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/caterpillar"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/caterpillar_hurt"
+	sp "AnimIdle" "Bugs/caterpillar_idle"
+	sp "AnimNormalAttack" "Bugs/caterpillar_attack2"
+	sp "AnimRatio" 0.4499999881
+	sp "AnimSpecialAttack" "Bugs/caterpillar_attack1"
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/caterpillar_walk"
+	sp "AttackBSfx" "sfx/attack_shh_01"
+	sp "AttackHitFrame" 0.5000000000 2.4000000954 3.5000000000 0.0000000000
+	sp "AttackPitch" 1.2000000477
+	sp "AttackSfx" "sfx/attack_bite_01"
+	sp "AttackSpeed" 1.2000000477
+	sp "AttackWaitMax" 1.0000000000
+	sp "AttackWaitMin" 0.5000000000
+	sp "BaseText" "BUGCHAT_BASE_CATERPILLAR"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9993111491 0.0370931588 -0.0011608112
+	sp "DirectionFactor" 3.0000000000
+	sp "HiveDamage" 2.0000000000
+	sp "InitialHealth" 75.0000000000
+	sp "LinearMomentum" -19.9860019684 0.7421481609 -0.0232165605
+	sp "Mass" 4.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 3.0000000000
+	sp "MeleeDistance" 5.0000000000
+	sp "Acceleration" 5.0000000000
+	sp "Position" 293.7028503418 -36.5380897522 4.1439394951
+	sp "ProjectileSfx" "sfx/attack_antiairhit"
+	sp "Radius" 10.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 12.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 75.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 11.9701786041
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0296953991
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -44.9331054688 -53.8080062866 -80.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.5334911346
+	sp "AirDistance" 150.0000000000
+	sp "SpecialDamage" 6.0000000000
+	sp "Speed" 8.0000000000
+	sp "TargetDirection" -0.9993112087 0.0370929204 -0.0011608052
+	sp "TargetSpeed" 8.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_CATERPILLAR"
+	<
+
+> "littlebeetle"
+	SetBugClass littlebeetle
+	Save_SetWaypoints wp3 wp4 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2000000477
+	sp "Model" "Bugs/littlebeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/littlebeetle_hurt"
+	sp "AnimIdle" "Bugs/littlebeetle_idle"
+	sp "AnimNormalAttack" "Bugs/littlebeetle_attack"
+	sp "AnimRatio" 0.2300000042
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/littlebeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 1.3999999762 2.5999999046 0.0000000000
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.4000000060
+	sp "AttackWaitMin" 0.2000000030
+	sp "BaseText" "BUGCHAT_BASE_LITTLEBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9997026324 -0.0243844781 -0.0000009900
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 30.0000000000
+	sp "LinearMomentum" -21.1797885895 -2.3786792755 -0.0000521071
+	sp "Mass" 1.5000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 2.5000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 35.0000000000
+	sp "Position" 202.3501739502 101.0901489258 4.0896196365
+	sp "ProjectileSfx" ""
+	sp "Radius" 6.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 30.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 11.0301570892
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -0.0000000000 -0.0000000000 4.2611370087
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -0.5405234098
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 14.0000000000
+	sp "TargetDirection" -0.9998230338 -0.0188125223 -0.0000008862
+	sp "TargetSpeed" 14.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_LITTLEBEETLE"
+	<
+
+> "littlebeetle2"
+	SetBugClass littlebeetle
+	Save_SetWaypoints wp7 wp8 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2000000477
+	sp "Model" "Bugs/littlebeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/littlebeetle_hurt"
+	sp "AnimIdle" "Bugs/littlebeetle_idle"
+	sp "AnimNormalAttack" "Bugs/littlebeetle_attack"
+	sp "AnimRatio" 0.2300000042
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/littlebeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 1.3999999762 2.5999999046 0.0000000000
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.4000000060
+	sp "AttackWaitMin" 0.2000000030
+	sp "BaseText" "BUGCHAT_BASE_LITTLEBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9614050984 0.2751367390 -0.0000001749
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 30.0000000000
+	sp "LinearMomentum" -20.4908695221 5.8697152138 -0.0000035661
+	sp "Mass" 1.5000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 2.5000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 35.0000000000
+	sp "Position" 79.1317596436 123.6459121704 4.0895962715
+	sp "ProjectileSfx" ""
+	sp "Radius" 6.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 30.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 20.0603637695
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -1.5707963705 -0.0000000000 -0.4551353157
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -0.0974285901
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 14.0000000000
+	sp "TargetDirection" -0.9614090919 0.2751230299 -0.0000001820
+	sp "TargetSpeed" 14.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_LITTLEBEETLE"
+	<
+
+> "littlebeetle7"
+	SetBugClass littlebeetle
+	Save_SetWaypoints wp23 wp24 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2000000477
+	sp "Model" "Bugs/littlebeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/littlebeetle_hurt"
+	sp "AnimIdle" "Bugs/littlebeetle_idle"
+	sp "AnimNormalAttack" "Bugs/littlebeetle_attack"
+	sp "AnimRatio" 0.2300000042
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/littlebeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 1.3999999762 2.5999999046 0.0000000000
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.4000000060
+	sp "AttackWaitMin" 0.2000000030
+	sp "BaseText" "BUGCHAT_BASE_LITTLEBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9288871884 0.3703628182 -0.0000868341
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 30.0000000000
+	sp "LinearMomentum" -17.7008647919 11.8533382416 -0.0065731560
+	sp "Mass" 1.5000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 2.5000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 35.0000000000
+	sp "Position" -72.0730514526 106.9002914429 3.9743549824
+	sp "ProjectileSfx" ""
+	sp "Radius" 6.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 30.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 36.0599555969
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -80.8301544189 -20.0134601593 -75.6865081787
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -1.2083376646
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 14.0000000000
+	sp "TargetDirection" -0.9488986731 0.3155810833 -0.0000622418
+	sp "TargetSpeed" 14.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_LITTLEBEETLE"
+	<
+
+> "littlebeetle8"
+	SetBugClass littlebeetle
+	Save_SetWaypoints wp101 wp100 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2000000477
+	sp "Model" "Bugs/littlebeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/littlebeetle_hurt"
+	sp "AnimIdle" "Bugs/littlebeetle_idle"
+	sp "AnimNormalAttack" "Bugs/littlebeetle_attack"
+	sp "AnimRatio" 0.2300000042
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/littlebeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 1.3999999762 2.5999999046 0.0000000000
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 1.5000000000
+	sp "AttackWaitMax" 0.4000000060
+	sp "AttackWaitMin" 0.2000000030
+	sp "BaseText" "BUGCHAT_BASE_LITTLEBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.3051238060 0.9188910723 0.2500773370
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 30.0000000000
+	sp "LinearMomentum" -0.1601899862 0.4824177921 0.1312905997
+	sp "Mass" 1.5000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 2.5000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 35.0000000000
+	sp "Position" 65.9872970581 -187.9534759521 3.7887945175
+	sp "ProjectileSfx" ""
+	sp "Radius" 6.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 3.0000000000
+	sp "Save_CurrentHealth" 25.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 33.0404624939
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -0.0000000000 -0.0000000000 -0.0500654988
+	sp "Save_Wait" 0.1864231825
+	sp "Save_WaypointPercent" -0.5565139055
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 14.0000000000
+	sp "TargetDirection" -0.3138685524 0.9127958417 0.2613244057
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_LITTLEBEETLE"
+	<
+
+> "nectar"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 222.5606689453 31.7938842773 2.4728021622
+	<
+
+> "nectar1"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 29.6548957825 68.8526535034 1.5895814896
+	<
+
+> "nectar12"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 155.0361328125 -198.8241577148 2.0053529739
+	<
+
+> "nectar14"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 216.3095397949 101.9240417480 2.5895843506
+	<
+
+> "nectar15"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 206.0660400391 99.4352874756 2.5895843506
+	<
+
+> "nectar16"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 16.3940734863 118.0639495850 2.5895881653
+	<
+
+> "nectar17"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 26.2959995270 131.2214355469 2.5895791054
+	<
+
+> "nectar18"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 192.3114929199 98.5345764160 2.5895843506
+	<
+
+> "nectar19"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" -87.0667572021 -53.2227058411 -21.1645545959
+	<
+
+> "nectar2"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" -99.4917678833 -152.3959808350 -40.8444824219
+	<
+
+> "nectar20"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 220.6101074219 31.8675804138 2.4728019238
+	<
+
+> "nectar21"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 17.8779315948 -96.0558929443 -21.8063774109
+	<
+
+> "nectar22"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 150.3256378174 -176.4670410156 2.0053524971
+	<
+
+> "nectar23"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 189.7289123535 -117.8633956909 2.7064242363
+	<
+
+> "nectar24"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 223.1396179199 -123.3716735840 2.6490101814
+	<
+
+> "nectar25"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 66.7673950195 127.2053451538 1.5895881653
+	<
+
+> "nectar26"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 19.2050075531 125.9127120972 1.5895872116
+	<
+
+> "nectar29"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" -37.8198165894 -85.5676651001 -29.4598922729
+	<
+
+> "nectar3"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 134.1175994873 -216.2876434326 2.0053529739
+	<
+
+> "nectar31"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 80.2859954834 -77.3045959473 -6.5222997665
+	<
+
+> "nectar4"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" -275.9480590820 125.0567245483 -18.2795162201
+	<
+
+> "nectar5"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 39.6724815369 132.6957550049 1.5895919800
+	<
+
+> "nectar7"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" -75.1678771973 -46.8472518921 -54.2019538879
+	<
+
+> "nectar9"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 0.0000000000
+	sp "Position" 129.6212463379 -213.8714294434 2.0053527355
+	<
+
+> "rhinobeetle"
+	SetBugClass rhinobeetle
+	Save_SetWaypoints wp25 wp24 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.2999999523
+	sp "Model" "Bugs/rhinobeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/rhinobeetle_hurt"
+	sp "AnimIdle" "Bugs/rhinobeetle_idle"
+	sp "AnimNormalAttack" "Bugs/rhinobeetle_attack"
+	sp "AnimRatio" 0.1899999976
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/rhinobeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 2.5999999046 3.4000000954 4.4000000954
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_smash_01"
+	sp "AttackSpeed" 1.2000000477
+	sp "AttackWaitMax" 1.0000000000
+	sp "AttackWaitMin" 0.5000000000
+	sp "BaseText" "BUGCHAT_BASE_RHINOBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" 0.4617184699 0.8870264292 -0.0004107785
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 2.0000000000
+	sp "InitialHealth" 35.0000000000
+	sp "LinearMomentum" 10.1560144424 36.4075241089 -0.0218633749
+	sp "Mass" 3.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 4.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 22.0000000000
+	sp "Position" -115.7446594238 89.0669937134 3.9830114841
+	sp "ProjectileSfx" ""
+	sp "Radius" 8.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 70.0000000000
+	sp "RangedRange" 0.6999999881
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 27.5000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 33.3604087830
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -1.3856391907 -1.5661793947 0.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" -0.8192250133
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 11.0000000000
+	sp "TargetDirection" 0.5286391973 0.8488465548 -0.0003348050
+	sp "TargetSpeed" 44.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_RHINOBEETLE"
+	<
+
+> "rhinobeetle1"
+	SetBugClass rhinobeetle
+	Save_SetWaypoints wp53 wp52 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2999999523
+	sp "Model" "Bugs/rhinobeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/rhinobeetle_hurt"
+	sp "AnimIdle" "Bugs/rhinobeetle_idle"
+	sp "AnimNormalAttack" "Bugs/rhinobeetle_attack"
+	sp "AnimRatio" 0.1899999976
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/rhinobeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 2.5999999046 3.4000000954 4.4000000954
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_smash_01"
+	sp "AttackSpeed" 1.2000000477
+	sp "AttackWaitMax" 1.0000000000
+	sp "AttackWaitMin" 0.5000000000
+	sp "BaseText" "BUGCHAT_BASE_RHINOBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.8352658749 -0.4914008081 -0.2466907203
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 2.0000000000
+	sp "InitialHealth" 35.0000000000
+	sp "LinearMomentum" -0.5512754917 -0.3243245184 -0.1628158689
+	sp "Mass" 3.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 4.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 22.0000000000
+	sp "Position" 60.8648376465 34.3063011169 0.9585686326
+	sp "ProjectileSfx" ""
+	sp "Radius" 8.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 70.0000000000
+	sp "RangedRange" 0.6999999881
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 5.0000000000
+	sp "Save_CurrentHealth" 35.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 27.9805450439
+	sp "Save_Kills" 1.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -26.5216865540 -10.6409072876 -25.8461742401
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.2676240504
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 11.0000000000
+	sp "TargetDirection" -0.8352646828 -0.4914001226 -0.2466960549
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_RHINOBEETLE"
+	<
+
+> "rhinobeetle2"
+	SetBugClass rhinobeetle
+	Save_SetWaypoints start6 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2999999523
+	sp "Model" "Bugs/rhinobeetle"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 0.0000000000
+	sp "AnimHurt" "Bugs/rhinobeetle_hurt"
+	sp "AnimIdle" "Bugs/rhinobeetle_idle"
+	sp "AnimNormalAttack" "Bugs/rhinobeetle_attack"
+	sp "AnimRatio" 0.1899999976
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/rhinobeetle_walk"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 1.0000000000 2.5999999046 3.4000000954 4.4000000954
+	sp "AttackPitch" 1.2999999523
+	sp "AttackSfx" "sfx/attack_smash_01"
+	sp "AttackSpeed" 1.2000000477
+	sp "AttackWaitMax" 1.0000000000
+	sp "AttackWaitMin" 0.5000000000
+	sp "BaseText" "BUGCHAT_BASE_RHINOBEETLE"
+	sp "CanFly" 0.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 2.0000000000
+	sp "InitialHealth" 35.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 3.0000000000
+	sp "Material0" "SYSTEM/lightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 4.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 22.0000000000
+	sp "Position" 347.2979431152 -41.2345504761 4.2064223289
+	sp "ProjectileSfx" ""
+	sp "Radius" 8.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 70.0000000000
+	sp "RangedRange" 0.6999999881
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 1.0000000000
+	sp "Save_CurrentHealth" 35.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 0.0000000000
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -0.0982772261 -0.0000000000 0.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 11.0000000000
+	sp "TargetDirection" 0.0000000000 1.0000000000 0.0000000000
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 0.0000000000
+	sp "WinText" "BUGCHAT_WIN_RHINOBEETLE"
+	<
+
+> "start"
+	ConnectTo "wp36"
+	sp "Direction" 0.9999148250 -0.0130524896 0.0000000000
+	sp "Index" 0.0000000000
+	sp "Position" -344.5433349609 93.5287857056 3.7390441895
+	sp "SideID" 0.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start1"
+	ConnectTo "wp37"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Index" 1.0000000000
+	sp "Position" -358.9060058594 -5.2995705605 -6.1927947998
+	sp "SideID" 0.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start2"
+	ConnectTo "wp84"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Index" 2.0000000000
+	sp "Position" -355.9421386719 -75.5419921875 -10.0486879349
+	sp "SideID" 0.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start3"
+	ConnectTo "wp85"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Index" 3.0000000000
+	sp "Position" -372.9471435547 -200.4284820557 3.7390441895
+	sp "SideID" 0.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start4"
+	sp "Direction" -0.8442537785 -0.5359436274 0.0000000000
+	sp "Index" 0.0000000000
+	sp "Position" 333.8614807129 172.4740600586 3.9727325439
+	sp "SideID" 1.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start5"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Index" 1.0000000000
+	sp "Position" 349.4241943359 35.5703964233 4.5569581985
+	sp "SideID" 1.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start6"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Index" 2.0000000000
+	sp "Position" 347.2979431152 -41.2345504761 4.2064223289
+	sp "SideID" 1.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "start7"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Index" 3.0000000000
+	sp "Position" 356.5982666016 -134.7261199951 4.2064266205
+	sp "SideID" 1.0000000000
+	sp "Water" 0.0000000000
+	<
+
+> "wasp"
+	SetBugClass wasp
+	Save_SetWaypoints wp121 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.8124366999 -0.5252364278 -0.2531272173
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" -0.8245834112 0.6397597790 58.2703819275
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" -35.3251152039 68.4167327881 -13.1508378983
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 8.0000000000
+	sp "Save_CurrentHealth" 0.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 19.9403610229
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 1.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -15.2927179337 24.9417095184 -98.8809051514
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" -0.6840670109 -0.5038669705 -0.5274185538
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasp1"
+	SetBugClass wasp
+	Save_SetWaypoints start4 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.8442537785 -0.5359436274 0.0000000000
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" -0.9286791086 -0.5895379782 0.0000000000
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" 333.8614807129 172.4740600586 3.9727325439
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 40.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 0.0299999993
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -0.5936363935 -2.7552816868 0.6389356852
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" -0.8442537785 -0.5359436274 0.0000000000
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasp2"
+	SetBugClass wasp
+	Save_SetWaypoints wp37 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.0455855206 -0.9989604950 0.0000000000
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" 26.4313087463 -90.7047348022 -2.8085398674
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" 24.4015312195 -33.9707412720 -72.3709564209
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 32.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 25.6204910278
+	sp "Save_Kills" 3.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 17.2014923096 -106.7486953735 -82.5317916870
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" -0.0912652612 -0.9958266616 0.0000000000
+	sp "TargetSpeed" 65.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasp3"
+	SetBugClass wasp
+	Save_SetWaypoints start5 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" 349.4241943359 35.5703964233 4.5569581985
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 1.0000000000
+	sp "Save_CurrentHealth" 40.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 0.0000000000
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -1.3856391907 -1.5661793947 0.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" 0.0000000000 1.0000000000 0.0000000000
+	sp "TargetSpeed" 0.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasp5"
+	SetBugClass wasp
+	Save_SetWaypoints wp37 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" 0.8221982121 -0.5692013502 0.0000000000
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" 98.4529190063 -39.4149322510 -5.9615635872
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" -92.0018539429 -26.6891021729 -79.9648818970
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 40.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 9.8301296234
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 17.2014923096 -106.7486953735 -82.5317916870
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" 0.8082238436 -0.5888754129 0.0000000000
+	sp "TargetSpeed" 65.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasp6"
+	SetBugClass wasp
+	Save_SetWaypoints wp121 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9237688780 -0.3798170388 0.0488886163
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" -68.6558990479 -40.4604873657 -7.3079476357
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" 16.1816368103 -107.3550186157 -82.6452331543
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 5.0000000000
+	sp "Save_CurrentHealth" 40.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 8.0300884247
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 24.9073143005 -113.2485046387 -81.0015029907
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" -0.9484911561 -0.3095124960 0.0675762296
+	sp "TargetSpeed" 65.0000000000
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasp7"
+	SetBugClass wasp
+	Save_SetWaypoints start6 wp63 
+	Save_RideOn null 
+	sp "Save_PlayerID" 1.0000000000
+	sp "ScaleFactor" 1.2500000000
+	sp "Model" "Bugs/wasp"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasp_hurt"
+	sp "AnimIdle" "Bugs/wasp_flight"
+	sp "AnimNormalAttack" "Bugs/wasp_attack"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" ""
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasp_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 0.8600000143 1.2599999905 0.0000000000 0.0000000000
+	sp "AttackPitch" 1.0000000000
+	sp "AttackSfx" "sfx/attack_swosh_01"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.2000000030
+	sp "AttackWaitMin" 0.0000000000
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9999655485 0.0082252426 -0.0011597890
+	sp "DirectionFactor" 10.0000000000
+	sp "HiveDamage" 1.0000000000
+	sp "InitialHealth" 40.0000000000
+	sp "LinearMomentum" -51.0087051392 0.4195748270 -0.0591693595
+	sp "Mass" 2.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 8.0000000000
+	sp "MeleeDistance" 4.0000000000
+	sp "Acceleration" 55.0000000000
+	sp "Position" 318.9253845215 -35.3952026367 4.1731100082
+	sp "ProjectileSfx" ""
+	sp "Radius" 7.5000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 200.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 0.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 40.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 0.0000000000
+	sp "Save_FollowPathOn" 1.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 0.0000000000
+	sp "Save_InternalTimer" 3.9699966908
+	sp "Save_Kills" 0.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" 0.5936363935 -2.7552816868 -0.6246246099
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.2779262066
+	sp "AirDistance" 0.0000000000
+	sp "SpecialDamage" 0.0000000000
+	sp "Speed" 65.0000000000
+	sp "TargetDirection" -0.9999654889 0.0082252342 -0.0011597838
+	sp "TargetSpeed" 42.7640075684
+	sp "WaveAmplitude" 10.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASP"
+	<
+
+> "wasphero"
+	SetBugClass wasphero
+	Save_SetWaypoints wp84 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.2000000477
+	sp "Model" "Bugs/wasphero"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasphero_hurt"
+	sp "AnimIdle" "Bugs/wasphero_flight"
+	sp "AnimNormalAttack" "Bugs/wasphero_attack2"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" "Bugs/wasphero_attack1"
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasphero_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 2.9000000954 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 0.6000000238
+	sp "AttackSfx" "sfx/attack_spit_02"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.6000000238
+	sp "AttackWaitMin" 0.3000000119
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.7032448649 -0.7074406147 -0.0705304071
+	sp "DirectionFactor" 6.0000000000
+	sp "HiveDamage" 5.0000000000
+	sp "InitialHealth" 120.0000000000
+	sp "LinearMomentum" 7.5980501175 -239.0831146240 4.3088150024
+	sp "Mass" 6.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 0.0000000000
+	sp "Acceleration" 50.0000000000
+	sp "Position" -52.4505767822 -28.2756214142 -86.8428039551
+	sp "ProjectileSfx" "sfx/attack_antiairhit"
+	sp "Radius" 13.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 6.0000000000
+	sp "Save_BugState" 7.0000000000
+	sp "Save_CurrentHealth" 72.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 47.1180992126
+	sp "Save_Kills" 4.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 0.0000000000
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -46.7405357361 -23.4689941406 -80.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 200.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" -0.6552017331 0.7543632984 -0.0405800231
+	sp "TargetSpeed" 40.0000000000
+	sp "WaveAmplitude" 5.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASPHERO"
+	<
+
+> "wasphero1"
+	SetBugClass wasphero
+	Save_SetWaypoints wp37 null 
+	Save_RideOn null 
+	sp "Save_PlayerID" 0.0000000000
+	sp "ScaleFactor" 1.2000000477
+	sp "Model" "Bugs/wasphero"
+	sp "AngularMomentum" 0.0000000000 0.0000000000 0.0000000000
+	sp "AnimBaseSpeed" 1.5000000000
+	sp "AnimHurt" "Bugs/wasphero_hurt"
+	sp "AnimIdle" "Bugs/wasphero_flight"
+	sp "AnimNormalAttack" "Bugs/wasphero_attack2"
+	sp "AnimRatio" 0.0500000007
+	sp "AnimSpecialAttack" "Bugs/wasphero_attack1"
+	sp "AnimSpecialMove" ""
+	sp "AnimWalk" "Bugs/wasphero_flight"
+	sp "AttackBSfx" ""
+	sp "AttackHitFrame" 2.9000000954 0.0000000000 0.0000000000 0.0000000000
+	sp "AttackPitch" 0.6000000238
+	sp "AttackSfx" "sfx/attack_spit_02"
+	sp "AttackSpeed" 2.0000000000
+	sp "AttackWaitMax" 0.6000000238
+	sp "AttackWaitMin" 0.3000000119
+	sp "BaseText" ""
+	sp "CanFly" 1.0000000000
+	sp "CanGather" 0.0000000000
+	sp "Direction" -0.9755864739 0.2196159512 -0.0000000014
+	sp "DirectionFactor" 6.0000000000
+	sp "HiveDamage" 5.0000000000
+	sp "InitialHealth" 120.0000000000
+	sp "LinearMomentum" -203.7443237305 16.5247726440 2.8895406723
+	sp "Mass" 6.0000000000
+	sp "Material0" "SYSTEM/blendedlightedbright"
+	sp "Material1" ""
+	sp "MeleeDamage" 0.0000000000
+	sp "MeleeDistance" 0.0000000000
+	sp "Acceleration" 50.0000000000
+	sp "Position" -3.4473080635 -113.0778045654 -81.0903854370
+	sp "ProjectileSfx" "sfx/attack_antiairhit"
+	sp "Radius" 13.0000000000
+	sp "RangedDamage" 0.0000000000
+	sp "RangedDistance" 0.0000000000
+	sp "RangedRange" 0.0000000000
+	sp "Reload" 6.0000000000
+	sp "Save_BugState" 4.0000000000
+	sp "Save_CurrentHealth" 16.0000000000
+	sp "Save_FlyCurrentTime" 0.0000000000
+	sp "Save_FlyTime" 0.0000000000
+	sp "Save_Flying" 1.0000000000
+	sp "Save_FollowPathOn" 0.0000000000
+	sp "Save_FreezeTimer" 0.0000000000
+	sp "Save_HadConflict" 1.0000000000
+	sp "Save_InternalTimer" 142.5309448242
+	sp "Save_Kills" 8.0000000000
+	sp "ActiveMode" 0.0000000000
+	sp "Save_PoisonTimer" 0.0000000000
+	sp "Save_ReloadTimer" 1.4462391138
+	sp "Save_Returning" 0.0000000000
+	sp "Save_TargetPosition" -33.8385353088 -105.2929687500 -80.0000000000
+	sp "Save_Wait" 0.0000000000
+	sp "Save_WaypointPercent" 0.0000000000
+	sp "AirDistance" 200.0000000000
+	sp "SpecialDamage" 30.0000000000
+	sp "Speed" 40.0000000000
+	sp "TargetDirection" -0.9700593352 0.2428678721 0.0000000000
+	sp "TargetSpeed" 33.9158248901
+	sp "WaveAmplitude" 5.0000000000
+	sp "WinText" "BUGCHAT_WIN_WASPHERO"
+	<
+
+> "wp"
+	ConnectTo "start4"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 245.4637451172 116.6983261108 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp1"
+	ConnectTo "wp"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 221.3077697754 103.5465621948 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp10"
+	ConnectTo "wp9"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 24.2616882324 130.8796691895 4.0895767212
+	sp "Water" 0.0000000000
+	<
+
+> "wp100"
+	ConnectTo "wp101"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 67.8577499390 -152.6762084961 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp101"
+	ConnectTo "wp102"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 59.5833702087 -172.2192382813 3.6222076416
+	sp "Water" 0.0000000000
+	<
+
+> "wp102"
+	ConnectTo "wp103"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 57.5280990601 -183.1974792480 6.4264831543
+	sp "Water" 0.0000000000
+	<
+
+> "wp103"
+	ConnectTo "wp104"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 60.7918701172 -192.6347808838 8.0623168945
+	sp "Water" 0.0000000000
+	<
+
+> "wp104"
+	ConnectTo "wp105"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 74.8805770874 -196.6221618652 8.0623168945
+	sp "Water" 0.0000000000
+	<
+
+> "wp105"
+	ConnectTo "wp106"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 88.7034454346 -199.5462341309 8.0623168945
+	sp "Water" 0.0000000000
+	<
+
+> "wp106"
+	ConnectTo "wp107"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 104.3870925903 -203.5335693359 8.0623168945
+	sp "Water" 0.0000000000
+	<
+
+> "wp107"
+	ConnectTo "wp108"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 120.9332427979 -209.2027740479 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp108"
+	ConnectTo "wp109"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 137.4985961914 -218.1044769287 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp109"
+	ConnectTo "wp110"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 149.3379516602 -215.0687561035 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp11"
+	ConnectTo "wp10"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 16.7839889526 123.5346527100 4.0895919800
+	sp "Water" 0.0000000000
+	<
+
+> "wp110"
+	ConnectTo "wp111"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 152.6772460938 -207.7830352783 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp111"
+	ConnectTo "wp112"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 155.8440856934 -195.7556457520 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp112"
+	ConnectTo "wp113"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 154.8022766113 -182.8900604248 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp113"
+	ConnectTo "wp114"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 147.8200988770 -172.8721313477 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp114"
+	ConnectTo "wp115"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 138.7129058838 -162.5506896973 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp115"
+	ConnectTo "wp116"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 135.0700378418 -146.4613342285 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp116"
+	ConnectTo "wp117"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 139.3200683594 -137.3541564941 3.5053527355
+	sp "Water" 0.0000000000
+	<
+
+> "wp117"
+	ConnectTo "wp118"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 150.2486724854 -128.5505523682 4.2064242363
+	sp "Water" 0.0000000000
+	<
+
+> "wp118"
+	ConnectTo "wp119"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 165.1237182617 -120.0505065918 4.2064242363
+	sp "Water" 0.0000000000
+	<
+
+> "wp119"
+	ConnectTo "wp120"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 192.4452819824 -117.6219406128 4.2064242363
+	sp "Water" 0.0000000000
+	<
+
+> "wp12"
+	ConnectTo "wp11"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 16.0193862915 112.8069076538 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp120"
+	ConnectTo "wp121"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 211.4428405762 -119.9861526489 4.2064242363
+	sp "Water" 0.0000000000
+	<
+
+> "wp121"
+	ConnectTo "start7"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 235.2462158203 -126.8758087158 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp13"
+	ConnectTo "wp12"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 22.7439002991 100.6071319580 4.0895919800
+	sp "Water" 0.0000000000
+	<
+
+> "wp14"
+	ConnectTo "wp13"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 30.8850841522 90.8075561523 4.0895919800
+	sp "Water" 0.0000000000
+	<
+
+> "wp15"
+	ConnectTo "wp14"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 34.5174484253 80.4617233276 4.0895814896
+	sp "Water" 0.0000000000
+	<
+
+> "wp16"
+	ConnectTo "wp15"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 30.2674484253 69.2295303345 4.0895814896
+	sp "Water" 0.0000000000
+	<
+
+> "wp17"
+	ConnectTo "wp16"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 17.9453506470 61.6483078003 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp18"
+	ConnectTo "wp17"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -0.8999862671 57.2761993408 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp19"
+	ConnectTo "wp18"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -18.2376995087 61.7990684509 4.0895919800
+	sp "Water" 0.0000000000
+	<
+
+> "wp2"
+	ConnectTo "wp1"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 209.2940216064 99.6466751099 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp20"
+	ConnectTo "wp19"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -48.8425292969 80.6444168091 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp21"
+	ConnectTo "wp20"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -64.9665145874 96.3050689697 3.9727401733
+	sp "Water" 0.0000000000
+	<
+
+> "wp22"
+	ConnectTo "wp21"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -74.1615600586 113.5511474609 3.9727356434
+	sp "Water" 0.0000000000
+	<
+
+> "wp23"
+	ConnectTo "wp22"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -86.9586868286 116.4896697998 3.9727249146
+	sp "Water" 0.0000000000
+	<
+
+> "wp24"
+	ConnectTo "wp23"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -99.0091857910 115.7364959717 3.9727249146
+	sp "Water" 0.0000000000
+	<
+
+> "wp25"
+	ConnectTo "wp24"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -112.2647552490 106.8492584229 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp26"
+	ConnectTo "wp25"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -113.7710647583 87.7190780640 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp27"
+	ConnectTo "wp26"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -113.4698104858 72.9572067261 3.9727249146
+	sp "Water" 0.0000000000
+	<
+
+> "wp28"
+	ConnectTo "wp27"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -119.0431671143 62.4130134583 3.9727401733
+	sp "Water" 0.0000000000
+	<
+
+> "wp29"
+	ConnectTo "wp28"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -138.1608734131 60.5726509094 4.0895781517
+	sp "Water" 0.0000000000
+	<
+
+> "wp3"
+	ConnectTo "wp2"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 188.0275726318 98.2540512085 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp30"
+	ConnectTo "wp29"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -153.2168273926 67.8111190796 0.9347580075
+	sp "Water" 0.0000000000
+	<
+
+> "wp31"
+	ConnectTo "wp30"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -170.4626770020 81.0065078735 -2.5705871582
+	sp "Water" 0.0000000000
+	<
+
+> "wp32"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -184.1106567383 96.5851364136 3.9727358818
+	sp "Water" 0.0000000000
+	<
+
+> "wp33"
+	ConnectTo "wp31"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -188.1903076172 104.9237823486 2.6874375343
+	sp "Water" 0.0000000000
+	<
+
+> "wp34"
+	ConnectTo "wp33"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -203.1157379150 115.6548461914 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp35"
+	ConnectTo "wp34"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -216.8231811523 111.1359100342 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp36"
+	ConnectTo "wp35"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -261.0341796875 95.4232330322 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp37"
+	ConnectTo "wp38"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -264.5276489258 -4.2566604614 -6.0759582520
+	sp "Water" 0.0000000000
+	<
+
+> "wp38"
+	ConnectTo "wp39"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -230.1771545410 4.0805912018 0.2336821556
+	sp "Water" 0.0000000000
+	<
+
+> "wp39"
+	ConnectTo "wp40"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -204.2218322754 19.2463855743 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp4"
+	ConnectTo "wp3"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 161.3454284668 100.3594970703 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp40"
+	ConnectTo "wp41"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -189.7850341797 26.1632080078 3.9727325439
+	sp "Water" 0.0000000000
+	<
+
+> "wp41"
+	ConnectTo "wp42"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -176.7315673828 29.3404045105 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp42"
+	ConnectTo "wp43"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -163.3846435547 24.5667572021 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp43"
+	ConnectTo "wp44"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -148.2891082764 12.7990875244 4.0895814896
+	sp "Water" 0.0000000000
+	<
+
+> "wp44"
+	ConnectTo "wp45"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -135.2354888916 6.4240570068 3.8559026718
+	sp "Water" 0.0000000000
+	<
+
+> "wp45"
+	ConnectTo "wp46"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -121.4067306519 1.8104553223 -1.7654876709
+	sp "Water" 0.0000000000
+	<
+
+> "wp46"
+	ConnectTo "wp47"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -105.0196609497 -3.4599838257 -7.1363449097
+	sp "Water" 0.0000000000
+	<
+
+> "wp47"
+	ConnectTo "wp48"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -90.9614715576 -7.1434478760 -9.8221693039
+	sp "Water" 0.0000000000
+	<
+
+> "wp48"
+	ConnectTo "wp49"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -63.3677673340 -13.4608497620 -23.3794345856
+	sp "Water" 0.0000000000
+	<
+
+> "wp49"
+	ConnectTo "wp50"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -42.0565376282 -15.0968551636 -27.0008468628
+	sp "Water" 0.0000000000
+	<
+
+> "wp5"
+	ConnectTo "wp4"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 134.3582000732 106.8734283447 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp50"
+	ConnectTo "wp52"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -10.4952583313 -7.9877910614 -24.0772857666
+	sp "Water" 0.0000000000
+	<
+
+> "wp51"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 21.4357757568 8.9168167114 -7.9454193115
+	sp "Water" 0.0000000000
+	<
+
+> "wp52"
+	ConnectTo "wp53"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 44.1229972839 23.6488075256 -4.0967464447
+	sp "Water" 0.0000000000
+	<
+
+> "wp53"
+	ConnectTo "wp54"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 65.6316604614 39.8539581299 2.8043363094
+	sp "Water" 0.0000000000
+	<
+
+> "wp54"
+	ConnectTo "wp55"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 80.6582641602 48.1038513184 3.9727909565
+	sp "Water" 0.0000000000
+	<
+
+> "wp55"
+	ConnectTo "wp56"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 96.2741622925 51.3448944092 3.9727878571
+	sp "Water" 0.0000000000
+	<
+
+> "wp56"
+	ConnectTo "wp57"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 116.5563354492 45.4113044739 3.9728088379
+	sp "Water" 0.0000000000
+	<
+
+> "wp57"
+	ConnectTo "wp58"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 138.0806579590 36.9377403259 3.9728164673
+	sp "Water" 0.0000000000
+	<
+
+> "wp58"
+	ConnectTo "wp59"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 158.3878784180 32.7649383545 3.9728164673
+	sp "Water" 0.0000000000
+	<
+
+> "wp59"
+	ConnectTo "wp60"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 176.7262420654 31.3360862732 3.9728031158
+	sp "Water" 0.0000000000
+	<
+
+> "wp6"
+	ConnectTo "wp5"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 106.7422409058 115.4811630249 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp60"
+	ConnectTo "wp61"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 197.4520263672 30.0982723236 3.9728012085
+	sp "Water" 0.0000000000
+	<
+
+> "wp61"
+	ConnectTo "wp62"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 218.1928405762 31.9589099884 3.9728012085
+	sp "Water" 0.0000000000
+	<
+
+> "wp62"
+	ConnectTo "start5"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 246.6249847412 30.8846778870 3.9728088379
+	sp "Water" 0.0000000000
+	<
+
+> "wp63"
+	ConnectTo "start6"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 246.9664154053 -34.8033027649 4.0896501541
+	sp "Water" 0.0000000000
+	<
+
+> "wp64"
+	ConnectTo "wp63"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 222.2167358398 -35.6871948242 3.7391128540
+	sp "Water" 0.0000000000
+	<
+
+> "wp65"
+	ConnectTo "wp64"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 207.7794036865 -40.6960716248 3.7391128540
+	sp "Water" 0.0000000000
+	<
+
+> "wp66"
+	ConnectTo "wp65"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 195.9938201904 -52.4816513062 3.7391147614
+	sp "Water" 0.0000000000
+	<
+
+> "wp67"
+	ConnectTo "wp66"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 182.0831909180 -58.6120491028 3.5054168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp68"
+	ConnectTo "wp67"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 166.0170288086 -58.5283813477 3.7391052246
+	sp "Water" 0.0000000000
+	<
+
+> "wp69"
+	ConnectTo "wp68"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 151.8084411621 -44.9272994995 3.1548614502
+	sp "Water" 0.0000000000
+	<
+
+> "wp7"
+	ConnectTo "wp6"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 77.5343627930 124.1473312378 4.0895843506
+	sp "Water" 0.0000000000
+	<
+
+> "wp70"
+	ConnectTo "wp69"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 136.1565856934 -39.7560424805 3.1548614502
+	sp "Water" 0.0000000000
+	<
+
+> "wp71"
+	ConnectTo "wp70"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 118.2090759277 -47.7674255371 2.3369405270
+	sp "Water" 0.0000000000
+	<
+
+> "wp72"
+	ConnectTo "wp71"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 107.0127563477 -60.7315521240 -0.9347090721
+	sp "Water" 0.0000000000
+	<
+
+> "wp73"
+	ConnectTo "wp72"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 91.1820755005 -74.3975067139 -2.5705566406
+	sp "Water" 0.0000000000
+	<
+
+> "wp74"
+	ConnectTo "wp73"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 63.9954681396 -81.6509246826 -6.1927728653
+	sp "Water" 0.0000000000
+	<
+
+> "wp75"
+	ConnectTo "wp74"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 38.3008880615 -92.1574707031 -14.2607021332
+	sp "Water" 0.0000000000
+	<
+
+> "wp76"
+	ConnectTo "wp75"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 8.6863479614 -97.8104248047 -23.0273017883
+	sp "Water" 0.0000000000
+	<
+
+> "wp77"
+	ConnectTo "wp76"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -26.8085994720 -93.6757354736 -26.7655544281
+	sp "Water" 0.0000000000
+	<
+
+> "wp78"
+	ConnectTo "wp77"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -59.9553756714 -69.2682189941 -27.3505592346
+	sp "Water" 0.0000000000
+	<
+
+> "wp79"
+	ConnectTo "wp78"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -87.3108062744 -53.0782661438 -18.5863647461
+	sp "Water" 0.0000000000
+	<
+
+> "wp8"
+	ConnectTo "wp7"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 56.8631935120 130.0183105469 4.0895919800
+	sp "Water" 0.0000000000
+	<
+
+> "wp80"
+	ConnectTo "wp79"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -109.3157043457 -45.7739448547 -8.8898401260
+	sp "Water" 0.0000000000
+	<
+
+> "wp81"
+	ConnectTo "wp80"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -133.3398895264 -45.8282089233 -2.3441009521
+	sp "Water" 0.0000000000
+	<
+
+> "wp82"
+	ConnectTo "wp81"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -162.9347991943 -48.0702514648 4.5569829941
+	sp "Water" 0.0000000000
+	<
+
+> "wp83"
+	ConnectTo "wp82"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -218.7791442871 -59.8939666748 3.2716979980
+	sp "Water" 0.0000000000
+	<
+
+> "wp84"
+	ConnectTo "wp83"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -266.4975891113 -69.1464843750 -5.4916992188
+	sp "Water" 0.0000000000
+	<
+
+> "wp85"
+	ConnectTo "wp86"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -241.6335449219 -152.6786804199 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp86"
+	ConnectTo "wp87"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -203.2027130127 -139.9985656738 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp87"
+	ConnectTo "wp88"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -185.2919311523 -141.2128601074 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp88"
+	ConnectTo "wp89"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -164.3454284668 -151.8379058838 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp89"
+	ConnectTo "wp90"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -135.8095703125 -170.0522460938 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp9"
+	ConnectTo "wp8"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 37.2849311829 133.0676269531 4.0895919800
+	sp "Water" 0.0000000000
+	<
+
+> "wp90"
+	ConnectTo "wp91"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -120.0237960815 -181.8915863037 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp91"
+	ConnectTo "wp92"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -106.0594482422 -187.0523223877 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp92"
+	ConnectTo "wp93"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -87.5415191650 -186.7487487793 3.7390441895
+	sp "Water" 0.0000000000
+	<
+
+> "wp93"
+	ConnectTo "wp94"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -54.1784667969 -177.5691833496 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp94"
+	ConnectTo "wp95"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" -7.1246795654 -156.9262390137 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp95"
+	ConnectTo "wp96"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 42.0540542603 -131.4261169434 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp96"
+	ConnectTo "wp97"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 59.3577117920 -127.7832565308 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp97"
+	ConnectTo "wp98"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 72.4113464355 -127.7832641602 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp98"
+	ConnectTo "wp99"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 76.9649353027 -132.3368530273 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
+> "wp99"
+	ConnectTo "wp100"
+	sp "Direction" 0.0000000000 1.0000000000 0.0000000000
+	sp "Position" 74.5363464355 -139.6225891113 0.8179168701
+	sp "Water" 0.0000000000
+	<
+
