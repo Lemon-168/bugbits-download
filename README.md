@@ -4,7 +4,7 @@ game and full-save
 
 ## Preview
 
-![gameshow](gameshow.png)
+![gamw](gameshow.png)
 
 ## Installation
 
